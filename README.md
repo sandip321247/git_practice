@@ -6,4 +6,4 @@ if i want to create new branch -> git checkout -b <-new branch name->
 if i want to delete branch -> git branch -d <-branch name->
 
 locally change
-remotely change
+remotely 
